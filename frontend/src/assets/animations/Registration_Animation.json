@@ -1,0 +1,2818 @@
+{
+  "relatedAnimations": [
+    {
+      "id": "e0fc41ca-1165-11ee-85bc-137d1cc756fb",
+      "name": "Lonely 404",
+      "description": "A lonely page, named 404, sad to be alone",
+      "lottiePath": "https://assets-v2.lottiefiles.com/a/e0fc41ca-1165-11ee-85bc-137d1cc756fb/Aq0HYchvYN.lottie",
+      "userId": "942e7aa1-3a0e-44f3-8a11-0c2beb121208",
+      "downloadCount": "3254",
+      "slug": "lonely-404",
+      "hash": "zAIqAZVfeC",
+      "meta": {
+        "id": "12345",
+        "width": 700,
+        "colors": [
+          [0, 0, 0, 1],
+          [0.549019607843, 0.549019607843, 0.549019607843, 1],
+          [1, 1, 1, 1],
+          [0.313725490196, 0.313725490196, 0.313725490196, 1],
+          [0.414963456696, 0.663659069585, 0.874509803922, 1],
+          [1, 0.996078431373, 0.996078431373, 1],
+          [0.337254901961, 0.337254901961, 0.337254901961, 1],
+          [0.717647058824, 0.717647058824, 0.717647058824, 1]
+        ],
+        "frames": 125,
+        "height": 400,
+        "layers": 18,
+        "themes": [],
+        "inPoint": 0,
+        "version": "5.7.1",
+        "fileSize": 55634,
+        "outPoint": 125,
+        "frameRate": 25,
+        "generator": "@lottiefiles/lottie-js 0.4.2"
+      },
+      "variants": [
+        {
+          "path": "a/e0fc41ca-1165-11ee-85bc-137d1cc756fb/8TEqFf8c5T.json",
+          "type": "json",
+          "fileSize": 55741,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/e0fc41ca-1165-11ee-85bc-137d1cc756fb/caKvABdemR.json",
+          "type": "json",
+          "fileSize": 43228,
+          "dimension": null,
+          "isOptimized": true,
+          "isTransparent": false
+        },
+        {
+          "path": "a/e0fc41ca-1165-11ee-85bc-137d1cc756fb/aiA2HcDsgs.mp4",
+          "type": "mp4",
+          "fileSize": 34991,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/e0fc41ca-1165-11ee-85bc-137d1cc756fb/3h4p32vJaB.gif",
+          "type": "gif",
+          "fileSize": 72924,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/e0fc41ca-1165-11ee-85bc-137d1cc756fb/OrKjwWX1MT.png",
+          "type": "png",
+          "fileSize": null,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/e0fc41ca-1165-11ee-85bc-137d1cc756fb/yWdVNjofEO.zip",
+          "type": "zip",
+          "fileSize": 4442,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/e0fc41ca-1165-11ee-85bc-137d1cc756fb/gDMt68nQbS.gif",
+          "type": "gif",
+          "fileSize": 40122,
+          "dimension": {
+            "name": "small",
+            "width": 150,
+            "height": 150
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/e0fc41ca-1165-11ee-85bc-137d1cc756fb/uFi2KIrWHk.gif",
+          "type": "gif",
+          "fileSize": 167435,
+          "dimension": {
+            "name": "medium",
+            "width": 500,
+            "height": 500
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/e0fc41ca-1165-11ee-85bc-137d1cc756fb/MuH4Sv2NuQ.gif",
+          "type": "gif",
+          "fileSize": 313987,
+          "dimension": {
+            "name": "large",
+            "width": 1200,
+            "height": 1200
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/e0fc41ca-1165-11ee-85bc-137d1cc756fb/Aq0HYchvYN.lottie",
+          "type": "lottie",
+          "fileSize": 5083,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/e0fc41ca-1165-11ee-85bc-137d1cc756fb/og-image-2KBupMfNhl.png",
+          "type": "og-image",
+          "fileSize": null,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        }
+      ],
+      "status": "published",
+      "config": {
+        "scale": 1,
+        "speed": 1,
+        "backgroundColor": "#FFFFFF"
+      },
+      "size": 5083,
+      "user": {
+        "id": "942e7aa1-3a0e-44f3-8a11-0c2beb121208",
+        "first_name": "Gaetan Gonzalez",
+        "last_name": "",
+        "username": "gaetangonzalez",
+        "avatar_url": "https://accounts-assets.lottiefiles.com/avatars/300_5d88bcfb50302.jpg",
+        "email": "gonzal.g.31@gmail.com",
+        "is_hireable": true
+      }
+    },
+    {
+      "id": "676f02b0-1189-11ee-9780-23510fa549e4",
+      "name": "Login",
+      "description": "Login and Sign up Lottie Animation.",
+      "lottiePath": "https://assets-v2.lottiefiles.com/a/676f02b0-1189-11ee-9780-23510fa549e4/RNBvkrC0Mk.lottie",
+      "userId": "3d191860-4305-4e35-9209-97d2a7ab8014",
+      "downloadCount": "3148",
+      "slug": "login",
+      "hash": "4rLqu2p6Td",
+      "meta": {
+        "id": "38869421-cb7d-42c9-b8e5-4c8cb5d198ca",
+        "width": 2000,
+        "colors": [
+          [1, 0.701960802078, 0, 1],
+          [0.819607853889, 0.827450990677, 0.831372559071, 1],
+          [0.945098042488, 0.949019610882, 0.949019610882, 1],
+          [0.211764708161, 0.141176477075, 0.470588237047, 1],
+          [0.984313726425, 0.694117665291, 0.65098041296, 1],
+          [0.192156866193, 0.137254908681, 0.423529416323, 1],
+          [0.278431385756, 0.121568627656, 0.368627458811, 1],
+          [0.20000000298, 0.133333340287, 0.423529416323, 1]
+        ],
+        "frames": 91,
+        "height": 2000,
+        "layers": 15,
+        "themes": [],
+        "inPoint": 0,
+        "version": "5.9.6",
+        "fileSize": 64327,
+        "outPoint": 91,
+        "frameRate": 30,
+        "generator": "@lottiefiles/lottie-js 0.4.2"
+      },
+      "variants": [
+        {
+          "path": "a/676f02b0-1189-11ee-9780-23510fa549e4/RNBvkrC0Mk.lottie",
+          "type": "lottie",
+          "fileSize": 8756,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/676f02b0-1189-11ee-9780-23510fa549e4/al2E3IGFLm.json",
+          "type": "json",
+          "fileSize": 63891,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/676f02b0-1189-11ee-9780-23510fa549e4/zFTxkTDEBq.json",
+          "type": "json",
+          "fileSize": 50110,
+          "dimension": null,
+          "isOptimized": true,
+          "isTransparent": false
+        },
+        {
+          "path": "a/676f02b0-1189-11ee-9780-23510fa549e4/cmJqLWf8gY.mp4",
+          "type": "mp4",
+          "fileSize": 34443,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/676f02b0-1189-11ee-9780-23510fa549e4/wZXY8L4n79.gif",
+          "type": "gif",
+          "fileSize": 260231,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/676f02b0-1189-11ee-9780-23510fa549e4/3YbQPHN1Ka.png",
+          "type": "png",
+          "fileSize": null,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/676f02b0-1189-11ee-9780-23510fa549e4/q5aFlmZqG9.zip",
+          "type": "zip",
+          "fileSize": 8779,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/676f02b0-1189-11ee-9780-23510fa549e4/jm6ctQguhD.gif",
+          "type": "gif",
+          "fileSize": 41005,
+          "dimension": {
+            "name": "small",
+            "width": 150,
+            "height": 150
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/676f02b0-1189-11ee-9780-23510fa549e4/vAZVzbU5W9.gif",
+          "type": "gif",
+          "fileSize": 249955,
+          "dimension": {
+            "name": "medium",
+            "width": 500,
+            "height": 500
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/676f02b0-1189-11ee-9780-23510fa549e4/xH7JBwSFQg.gif",
+          "type": "gif",
+          "fileSize": 1041966,
+          "dimension": {
+            "name": "large",
+            "width": 1200,
+            "height": 1200
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/676f02b0-1189-11ee-9780-23510fa549e4/uen89fnvS8.lottie",
+          "type": "lottie",
+          "fileSize": 7983,
+          "dimension": null,
+          "isOptimized": true,
+          "isTransparent": false
+        },
+        {
+          "path": "a/676f02b0-1189-11ee-9780-23510fa549e4/EE6Hus0tcl.gif",
+          "type": "gif",
+          "fileSize": 3445631,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": true
+        },
+        {
+          "path": "a/676f02b0-1189-11ee-9780-23510fa549e4/og-image-Mq25343b4K.png",
+          "type": "og-image",
+          "fileSize": null,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        }
+      ],
+      "status": "published",
+      "config": {
+        "scale": 1,
+        "speed": 1,
+        "backgroundColor": "#FFFFFF"
+      },
+      "size": 8756,
+      "user": {
+        "id": "3d191860-4305-4e35-9209-97d2a7ab8014",
+        "first_name": "Mahendra",
+        "last_name": "",
+        "username": "motiondesignermahendra",
+        "avatar_url": "https://accounts-assets.lottiefiles.com/avatars/300_profile-photo-1684140260113.jpeg",
+        "email": "motion.mahendra@gmail.com",
+        "is_hireable": true
+      }
+    },
+    {
+      "id": "cd7966e4-0509-11ef-af83-1f0d763a25e5",
+      "name": "Pin code Password Protection, Secure Login animation",
+      "description": "Explore the essentials of online security with this captivating Lottie animation, which brings to life the process of secure online registration and user login. This asset visually demonstrates how to fill out a web form, enter a secure password, and ensure data protection. It's an excellent tool for educational content, security tutorials, or digital platforms looking to enhance user understanding of password security and data safety. Ideal for integration into websites and apps focusing on computer security, online security, and information protection.",
+      "lottiePath": "https://assets-v2.lottiefiles.com/a/cd7966e4-0509-11ef-af83-1f0d763a25e5/PnSqy1Jbmp.lottie",
+      "userId": "7cf3d06a-8076-49fa-b290-d34a7681caed",
+      "downloadCount": "2068",
+      "slug": "pin-code-password-protection-secure-login-animation",
+      "hash": "ErwbAUAGdH",
+      "meta": {
+        "id": "90a3f81e-157c-43ea-9f66-3a8e43ebb95c",
+        "width": 1200,
+        "colors": [
+          [1, 0, 0, 1],
+          [0.063000002094, 0.067000003889, 0.067000003889, 1],
+          [1, 1, 1, 1],
+          [0, 0.838999968884, 0.255000005984, 1],
+          [0.030999998953, 0.666999966491, 1, 1],
+          [0, 0, 0, 1],
+          [1, 0.776000019148, 0, 1],
+          [0.964705942191, 0, 0.984313785329, 1],
+          [0.964999988032, 0, 0.984000052658, 1],
+          [0.161000001197, 0.941000007181, 0.811999990426, 1],
+          [0.528999956916, 0.075, 0.8, 1],
+          [0.961000031116, 0.169000004787, 0.216000007181, 1]
+        ],
+        "frames": 240,
+        "height": 1200,
+        "layers": 6,
+        "themes": [],
+        "inPoint": 0,
+        "version": "4.8.0",
+        "fileSize": 186236,
+        "outPoint": 240,
+        "frameRate": 60,
+        "generator": "LottieFiles AE 3.5.6"
+      },
+      "variants": [
+        {
+          "path": "a/cd7966e4-0509-11ef-af83-1f0d763a25e5/PnSqy1Jbmp.lottie",
+          "type": "lottie",
+          "fileSize": 22425,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/cd7966e4-0509-11ef-af83-1f0d763a25e5/7IStjYK54l.json",
+          "type": "json",
+          "fileSize": 186303,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/cd7966e4-0509-11ef-af83-1f0d763a25e5/jp7IWZXrEz.lottie",
+          "type": "lottie",
+          "fileSize": 21205,
+          "dimension": null,
+          "isOptimized": true,
+          "isTransparent": false
+        },
+        {
+          "path": "a/cd7966e4-0509-11ef-af83-1f0d763a25e5/zotDqJa814.json",
+          "type": "json",
+          "fileSize": 172770,
+          "dimension": null,
+          "isOptimized": true,
+          "isTransparent": false
+        },
+        {
+          "path": "a/cd7966e4-0509-11ef-af83-1f0d763a25e5/T0L2CBSZfi.png",
+          "type": "png",
+          "fileSize": 35706,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": true
+        },
+        {
+          "path": "a/cd7966e4-0509-11ef-af83-1f0d763a25e5/NEjjqSMxpC.mp4",
+          "type": "mp4",
+          "fileSize": 285209,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/cd7966e4-0509-11ef-af83-1f0d763a25e5/KGV4jHLlr3.gif",
+          "type": "gif",
+          "fileSize": 5824315,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": true
+        },
+        {
+          "path": "a/cd7966e4-0509-11ef-af83-1f0d763a25e5/iAzny4AT5M.gif",
+          "type": "gif",
+          "fileSize": 461315,
+          "dimension": {
+            "name": "small",
+            "width": 150,
+            "height": 150
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/cd7966e4-0509-11ef-af83-1f0d763a25e5/afF3bTDPKq.gif",
+          "type": "gif",
+          "fileSize": 3181554,
+          "dimension": {
+            "name": "medium",
+            "width": 500,
+            "height": 500
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/cd7966e4-0509-11ef-af83-1f0d763a25e5/tLVjYRefd5.gif",
+          "type": "gif",
+          "fileSize": 6412048,
+          "dimension": {
+            "name": "large",
+            "width": 1200,
+            "height": 1200
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/cd7966e4-0509-11ef-af83-1f0d763a25e5/og-image-4F0NqorBWF.png",
+          "type": "og-image",
+          "fileSize": null,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        }
+      ],
+      "status": "published",
+      "config": {
+        "scale": 1,
+        "speed": 1,
+        "backgroundColor": "#FFFFFF"
+      },
+      "size": 22425,
+      "user": {
+        "id": "7cf3d06a-8076-49fa-b290-d34a7681caed",
+        "first_name": "Rayhan",
+        "last_name": "",
+        "username": "marketorr",
+        "avatar_url": "https://accounts-assets.lottiefiles.com/avatars/300_profile-photo-1702018591778.jpeg",
+        "email": "hasannaim@marketorr.com",
+        "is_hireable": true
+      }
+    },
+    {
+      "id": "750ed6f6-117b-11ee-97d8-73d47909a467",
+      "name": "Login Leady",
+      "description": "Login",
+      "lottiePath": "https://assets-v2.lottiefiles.com/a/750ed6f6-117b-11ee-97d8-73d47909a467/HCNDgDOvY4.lottie",
+      "userId": "82ebccce-6b76-41f5-a891-ccea0f495d00",
+      "downloadCount": "1292",
+      "slug": "login-leady",
+      "hash": "6vlP4Naigl",
+      "meta": {
+        "id": "12345",
+        "width": 429,
+        "colors": [
+          [0.051083931268, 0.085423802394, 0.114832672418, 1],
+          [0.584313725490196, 0.2, 0.2, 1],
+          [0.157398343554, 0.23913786645, 0.277949643603, 1],
+          [0.952524820964, 0.948456468769, 0.934113087374, 1],
+          [0.772548959769, 0.733332974303, 0.623528992896, 1],
+          [0.952941176471, 0.949019607843, 0.937254901961, 1],
+          [0.907928287282, 0.905477905273, 0.881506826363, 1],
+          [0.999999820485, 0.999999760646, 0.999999820485, 1],
+          [0.8537926169, 0.85154281317, 0.820981014476, 1],
+          [0.987441418218, 0.497434369256, 0.325602482814, 1],
+          [0.987476663028, 0.647847134459, 0.524715827493, 1],
+          [0.988235294118, 0.647058823529, 0.525490196078, 1],
+          [0.945098039215686, 0.4, 0.137254901960784, 1],
+          [0.0235294117647059, 0.415686274509804, 0.788235294117647, 1],
+          [0.643510945638, 0.689196238798, 0.667162846584, 1],
+          [0.0196078431372549, 0.113725490196078, 0.203921568627451, 1],
+          [0.980991139131, 0.97875587613, 0.97214457194, 1],
+          [0.811987304688, 0.192857271082, 0.153997922411, 1]
+        ],
+        "frames": 240,
+        "height": 444,
+        "layers": 16,
+        "themes": [],
+        "inPoint": 0,
+        "version": "5.5.7",
+        "fileSize": 229197,
+        "outPoint": 240,
+        "frameRate": 30,
+        "generator": "LottieFiles AE 0.1.20"
+      },
+      "variants": [
+        {
+          "path": "a/750ed6f6-117b-11ee-97d8-73d47909a467/JwmK5eVgCx.json",
+          "type": "json",
+          "fileSize": 226617,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/750ed6f6-117b-11ee-97d8-73d47909a467/7fcIJRTvfw.json",
+          "type": "json",
+          "fileSize": 179521,
+          "dimension": null,
+          "isOptimized": true,
+          "isTransparent": false
+        },
+        {
+          "path": "a/750ed6f6-117b-11ee-97d8-73d47909a467/MScXCRPxRg.mp4",
+          "type": "mp4",
+          "fileSize": 226403,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/750ed6f6-117b-11ee-97d8-73d47909a467/UP9s9oR49S.gif",
+          "type": "gif",
+          "fileSize": 1186603,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/750ed6f6-117b-11ee-97d8-73d47909a467/x5X7say7R6.png",
+          "type": "png",
+          "fileSize": null,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/750ed6f6-117b-11ee-97d8-73d47909a467/qkBuNm9HHB.zip",
+          "type": "zip",
+          "fileSize": 36541,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/750ed6f6-117b-11ee-97d8-73d47909a467/5J5fC0feYX.gif",
+          "type": "gif",
+          "fileSize": 367012,
+          "dimension": {
+            "name": "small",
+            "width": 150,
+            "height": 150
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/750ed6f6-117b-11ee-97d8-73d47909a467/3S6uW0zJQl.gif",
+          "type": "gif",
+          "fileSize": 2293552,
+          "dimension": {
+            "name": "medium",
+            "width": 500,
+            "height": 500
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/750ed6f6-117b-11ee-97d8-73d47909a467/zHbbtEVFeQ.gif",
+          "type": "gif",
+          "fileSize": 4769715,
+          "dimension": {
+            "name": "large",
+            "width": 1200,
+            "height": 1200
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/750ed6f6-117b-11ee-97d8-73d47909a467/HCNDgDOvY4.lottie",
+          "type": "lottie",
+          "fileSize": 39536,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/750ed6f6-117b-11ee-97d8-73d47909a467/og-image-PsA4HXMr0X.png",
+          "type": "og-image",
+          "fileSize": null,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        }
+      ],
+      "status": "published",
+      "config": {
+        "scale": 1,
+        "speed": 1,
+        "backgroundColor": "#FFFFFF"
+      },
+      "size": 39536,
+      "user": {
+        "id": "82ebccce-6b76-41f5-a891-ccea0f495d00",
+        "first_name": "Satyanarayan Bhuniya",
+        "last_name": "",
+        "username": "mvoesdbduq",
+        "avatar_url": "https://accounts-assets.lottiefiles.com/avatars/300_6088abd11ded6.jpg",
+        "email": "satyasmobile@gmail.com",
+        "is_hireable": false
+      }
+    },
+    {
+      "id": "a9e647fa-1186-11ee-888c-af71ea6baa2f",
+      "name": "Document Reader File",
+      "description": "Office Viewer - File Viewer - DOcument Reader",
+      "lottiePath": "https://assets-v2.lottiefiles.com/a/a9e647fa-1186-11ee-888c-af71ea6baa2f/h9K5f2z3Y9.lottie",
+      "userId": "0e0c64a4-1563-4cb6-871e-e41e1297e3dd",
+      "downloadCount": "512",
+      "slug": "document-reader-file",
+      "hash": "2ocJP2ieDL",
+      "meta": {
+        "id": "4e2cfa20-54d9-4fe0-8513-631d9f582d79",
+        "width": 320,
+        "colors": [],
+        "frames": 83,
+        "height": 320,
+        "layers": 2,
+        "themes": [],
+        "inPoint": 0,
+        "version": "4.8.0",
+        "fileSize": 18461,
+        "outPoint": 83,
+        "frameRate": 24,
+        "generator": "LottieFiles AE 3.1.1"
+      },
+      "variants": [
+        {
+          "path": "a/a9e647fa-1186-11ee-888c-af71ea6baa2f/h9K5f2z3Y9.lottie",
+          "type": "lottie",
+          "fileSize": 21240,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/a9e647fa-1186-11ee-888c-af71ea6baa2f/VTs2zbM220.json",
+          "type": "json",
+          "fileSize": 43390,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/a9e647fa-1186-11ee-888c-af71ea6baa2f/LUdAX6hK7y.json",
+          "type": "json",
+          "fileSize": 31101,
+          "dimension": null,
+          "isOptimized": true,
+          "isTransparent": false
+        },
+        {
+          "path": "a/a9e647fa-1186-11ee-888c-af71ea6baa2f/lrhw5BZLlY.mp4",
+          "type": "mp4",
+          "fileSize": 64175,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/a9e647fa-1186-11ee-888c-af71ea6baa2f/VoC2WWUJQ0.gif",
+          "type": "gif",
+          "fileSize": 387130,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/a9e647fa-1186-11ee-888c-af71ea6baa2f/oWd8VYYXe7.png",
+          "type": "png",
+          "fileSize": null,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/a9e647fa-1186-11ee-888c-af71ea6baa2f/OPzrrZqdc7.zip",
+          "type": "zip",
+          "fileSize": 18226,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/a9e647fa-1186-11ee-888c-af71ea6baa2f/q5w52vj8L9.gif",
+          "type": "gif",
+          "fileSize": 156552,
+          "dimension": {
+            "name": "small",
+            "width": 150,
+            "height": 150
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/a9e647fa-1186-11ee-888c-af71ea6baa2f/HRYy4LNJde.gif",
+          "type": "gif",
+          "fileSize": 664900,
+          "dimension": {
+            "name": "medium",
+            "width": 500,
+            "height": 500
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/a9e647fa-1186-11ee-888c-af71ea6baa2f/dEHPBZvHQu.gif",
+          "type": "gif",
+          "fileSize": 2126306,
+          "dimension": {
+            "name": "large",
+            "width": 1200,
+            "height": 1200
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/a9e647fa-1186-11ee-888c-af71ea6baa2f/8GlwuWBW19.lottie",
+          "type": "lottie",
+          "fileSize": 10205,
+          "dimension": null,
+          "isOptimized": true,
+          "isTransparent": false
+        },
+        {
+          "path": "a/a9e647fa-1186-11ee-888c-af71ea6baa2f/Dpa2SmuWhH.gif",
+          "type": "gif",
+          "fileSize": 1609594,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": true
+        },
+        {
+          "path": "a/a9e647fa-1186-11ee-888c-af71ea6baa2f/og-image-UBsVgBdJsa.png",
+          "type": "og-image",
+          "fileSize": null,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        }
+      ],
+      "status": "published",
+      "config": {
+        "scale": 1,
+        "speed": 1,
+        "backgroundColor": "#FFFFFF"
+      },
+      "size": 21240,
+      "user": {
+        "id": "0e0c64a4-1563-4cb6-871e-e41e1297e3dd",
+        "first_name": "Jennie Lu96",
+        "last_name": "",
+        "username": "opx1fn5rtoplgxxd",
+        "avatar_url": "https://accounts-assets.lottiefiles.com/avatars/300_5efd5b0d1c660.jpg",
+        "email": "lienpham1107@gmail.com",
+        "is_hireable": false
+      }
+    },
+    {
+      "id": "cd6521c4-1172-11ee-80b1-77c3ebe3a7c8",
+      "name": "scan document",
+      "description": "scan document",
+      "lottiePath": "https://assets-v2.lottiefiles.com/a/cd6521c4-1172-11ee-80b1-77c3ebe3a7c8/zkMxjvzaBc.lottie",
+      "userId": "a5803e77-825f-4c55-9acd-7241208323c1",
+      "downloadCount": "640",
+      "slug": "scan-document",
+      "hash": "c5Snz9ZFhC",
+      "meta": {
+        "id": "12345",
+        "width": 600,
+        "colors": [
+          [0.223529411764706, 0.243137254901961, 0.709803921568628, 1],
+          [0.952941176470588, 0.964705882352941, 0.976470588235294, 1],
+          [0.882352941176, 0.913725490196, 0.949019607843, 1]
+        ],
+        "frames": 227,
+        "height": 600,
+        "layers": 5,
+        "themes": [],
+        "inPoint": 0,
+        "version": "5.5.7",
+        "fileSize": 19373,
+        "outPoint": 227,
+        "frameRate": 60,
+        "generator": "LottieFiles AE 0.1.20"
+      },
+      "variants": [
+        {
+          "path": "a/cd6521c4-1172-11ee-80b1-77c3ebe3a7c8/TqDdMHjg2l.json",
+          "type": "json",
+          "fileSize": 19312,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/cd6521c4-1172-11ee-80b1-77c3ebe3a7c8/UZNyt26OE8.json",
+          "type": "json",
+          "fileSize": 13903,
+          "dimension": null,
+          "isOptimized": true,
+          "isTransparent": false
+        },
+        {
+          "path": "a/cd6521c4-1172-11ee-80b1-77c3ebe3a7c8/3iTg5vIMwK.mp4",
+          "type": "mp4",
+          "fileSize": 27781,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/cd6521c4-1172-11ee-80b1-77c3ebe3a7c8/QSqBSgPQHi.gif",
+          "type": "gif",
+          "fileSize": 249112,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/cd6521c4-1172-11ee-80b1-77c3ebe3a7c8/PqaF4bymJ8.png",
+          "type": "png",
+          "fileSize": null,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/cd6521c4-1172-11ee-80b1-77c3ebe3a7c8/B4vuVjVC9f.zip",
+          "type": "zip",
+          "fileSize": 1491,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/cd6521c4-1172-11ee-80b1-77c3ebe3a7c8/JEtUJM1RrU.gif",
+          "type": "gif",
+          "fileSize": 134527,
+          "dimension": {
+            "name": "small",
+            "width": 150,
+            "height": 150
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/cd6521c4-1172-11ee-80b1-77c3ebe3a7c8/F8V3u0plR8.gif",
+          "type": "gif",
+          "fileSize": 717633,
+          "dimension": {
+            "name": "medium",
+            "width": 500,
+            "height": 500
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/cd6521c4-1172-11ee-80b1-77c3ebe3a7c8/iYV6cpH98Y.gif",
+          "type": "gif",
+          "fileSize": 2026835,
+          "dimension": {
+            "name": "large",
+            "width": 1200,
+            "height": 1200
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/cd6521c4-1172-11ee-80b1-77c3ebe3a7c8/zkMxjvzaBc.lottie",
+          "type": "lottie",
+          "fileSize": 1832,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/cd6521c4-1172-11ee-80b1-77c3ebe3a7c8/og-image-Xko8ADBrQx.png",
+          "type": "og-image",
+          "fileSize": null,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        }
+      ],
+      "status": "published",
+      "config": {
+        "scale": 1,
+        "speed": 1,
+        "backgroundColor": "#FFFFFF"
+      },
+      "size": 1832,
+      "user": {
+        "id": "a5803e77-825f-4c55-9acd-7241208323c1",
+        "first_name": "Alex Lbc",
+        "last_name": "",
+        "username": "acumfwgcr5",
+        "avatar_url": "https://accounts-assets.lottiefiles.com/avatars/300_default_user.jpg",
+        "email": "alexlbc75@gmail.com",
+        "is_hireable": false
+      }
+    },
+    {
+      "id": "4f4015ba-1177-11ee-b893-4ffe6a557579",
+      "name": "File Search",
+      "description": "File Search",
+      "lottiePath": "https://assets-v2.lottiefiles.com/a/4f4015ba-1177-11ee-b893-4ffe6a557579/TSJL6HJX27.lottie",
+      "userId": "97215b79-bd1a-4025-abc7-92afda77c85a",
+      "downloadCount": "660",
+      "slug": "file-search",
+      "hash": "yp63uFBXre",
+      "meta": {
+        "id": "12345",
+        "width": 500,
+        "colors": [
+          [0, 0.854901960784314, 0.725490196078431, 1],
+          [0.772549019607843, 0.772549019607843, 0.772549019607843, 1],
+          [0.776000019148, 0.776000019148, 0.776000019148, 1],
+          [0.847000002394, 0.847000002394, 0.847000002394, 1],
+          [0.917999985639, 0.917999985639, 0.917999985639, 1],
+          [0.23921568627451, 0.325490196078431, 1, 1]
+        ],
+        "frames": 72,
+        "height": 500,
+        "layers": 18,
+        "themes": [],
+        "inPoint": 0,
+        "version": "5.4.4",
+        "fileSize": 36191,
+        "outPoint": 72,
+        "frameRate": 24,
+        "generator": "@lottiefiles/lottie-js 0.4.2"
+      },
+      "variants": [
+        {
+          "path": "a/4f4015ba-1177-11ee-b893-4ffe6a557579/ZNNtf0XYdb.json",
+          "type": "json",
+          "fileSize": 37485,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/4f4015ba-1177-11ee-b893-4ffe6a557579/uzbVyQsfsS.json",
+          "type": "json",
+          "fileSize": 30729,
+          "dimension": null,
+          "isOptimized": true,
+          "isTransparent": false
+        },
+        {
+          "path": "a/4f4015ba-1177-11ee-b893-4ffe6a557579/vos4Edf87u.mp4",
+          "type": "mp4",
+          "fileSize": 54190,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/4f4015ba-1177-11ee-b893-4ffe6a557579/WdgNLLU10l.gif",
+          "type": "gif",
+          "fileSize": 186935,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/4f4015ba-1177-11ee-b893-4ffe6a557579/g6PIcOtg6A.png",
+          "type": "png",
+          "fileSize": null,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/4f4015ba-1177-11ee-b893-4ffe6a557579/dvrlKCgHbs.zip",
+          "type": "zip",
+          "fileSize": 3781,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/4f4015ba-1177-11ee-b893-4ffe6a557579/TSJL6HJX27.lottie",
+          "type": "lottie",
+          "fileSize": 4371,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/4f4015ba-1177-11ee-b893-4ffe6a557579/og-image-onD6zpzBIV.png",
+          "type": "og-image",
+          "fileSize": null,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        }
+      ],
+      "status": "published",
+      "config": {
+        "scale": 1,
+        "speed": 1,
+        "backgroundColor": "#FFFFFF"
+      },
+      "size": 4371,
+      "user": {
+        "id": "97215b79-bd1a-4025-abc7-92afda77c85a",
+        "first_name": "Rafael Alves Berto",
+        "last_name": "",
+        "username": "oqbq1dzgdz",
+        "avatar_url": "https://accounts-assets.lottiefiles.com/avatars/300_default_user.jpg",
+        "email": "rafael.berto@brandshub.com.br",
+        "is_hireable": false
+      }
+    },
+    {
+      "id": "0bbe844e-1180-11ee-92d2-5313d5519374",
+      "name": "Document Icon Lottie Animation",
+      "description": "Document Icon Lottie Animation.",
+      "lottiePath": "https://assets-v2.lottiefiles.com/a/0bbe844e-1180-11ee-92d2-5313d5519374/tRnCN5xghH.lottie",
+      "userId": "1ae76300-5438-460d-9bf8-73a219ef65e0",
+      "downloadCount": "442",
+      "slug": "document-icon-lottie-animation",
+      "hash": "cllGmmn8O2",
+      "meta": {
+        "id": "006a5517-b697-48f4-ba7a-838ecad69574",
+        "width": 500,
+        "colors": [
+          [1, 1, 1, 1],
+          [0.976470589638, 0.752941191196, 0.403921574354, 1],
+          [0.027450980619, 0.517647087574, 0.96862745285, 1],
+          [0.247058823705, 0.40000000596, 0.854901969433, 1]
+        ],
+        "frames": 101,
+        "height": 500,
+        "layers": 9,
+        "themes": [],
+        "inPoint": 0,
+        "version": "4.8.0",
+        "fileSize": 14124,
+        "outPoint": 101,
+        "frameRate": 30,
+        "generator": "LottieFiles AE 3.0.2"
+      },
+      "variants": [
+        {
+          "path": "a/0bbe844e-1180-11ee-92d2-5313d5519374/tRnCN5xghH.lottie",
+          "type": "lottie",
+          "fileSize": 1950,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/0bbe844e-1180-11ee-92d2-5313d5519374/mwNJLywNZ8.json",
+          "type": "json",
+          "fileSize": 14147,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/0bbe844e-1180-11ee-92d2-5313d5519374/PrWUTQYiTe.json",
+          "type": "json",
+          "fileSize": 10409,
+          "dimension": null,
+          "isOptimized": true,
+          "isTransparent": false
+        },
+        {
+          "path": "a/0bbe844e-1180-11ee-92d2-5313d5519374/OTTfZsvJEc.mp4",
+          "type": "mp4",
+          "fileSize": 15407,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/0bbe844e-1180-11ee-92d2-5313d5519374/SPAFRQyyaa.gif",
+          "type": "gif",
+          "fileSize": 32688,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/0bbe844e-1180-11ee-92d2-5313d5519374/ZQTCNJekid.png",
+          "type": "png",
+          "fileSize": null,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/0bbe844e-1180-11ee-92d2-5313d5519374/msXSR4Yykg.zip",
+          "type": "zip",
+          "fileSize": 1978,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/0bbe844e-1180-11ee-92d2-5313d5519374/D3ThtO9unC.gif",
+          "type": "gif",
+          "fileSize": 24994,
+          "dimension": {
+            "name": "small",
+            "width": 150,
+            "height": 150
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/0bbe844e-1180-11ee-92d2-5313d5519374/yBqThuYvdH.gif",
+          "type": "gif",
+          "fileSize": 77791,
+          "dimension": {
+            "name": "medium",
+            "width": 500,
+            "height": 500
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/0bbe844e-1180-11ee-92d2-5313d5519374/nQaUnUc3Mt.gif",
+          "type": "gif",
+          "fileSize": 119834,
+          "dimension": {
+            "name": "large",
+            "width": 1200,
+            "height": 1200
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/0bbe844e-1180-11ee-92d2-5313d5519374/CcYdY886iI.lottie",
+          "type": "lottie",
+          "fileSize": 1618,
+          "dimension": null,
+          "isOptimized": true,
+          "isTransparent": false
+        },
+        {
+          "path": "a/0bbe844e-1180-11ee-92d2-5313d5519374/DVgJGb7iBr.gif",
+          "type": "gif",
+          "fileSize": 1374105,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": true
+        },
+        {
+          "path": "a/0bbe844e-1180-11ee-92d2-5313d5519374/og-image-wwL2AmI3oU.png",
+          "type": "og-image",
+          "fileSize": null,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        }
+      ],
+      "status": "published",
+      "config": {
+        "scale": 1,
+        "speed": 1,
+        "backgroundColor": "#FFFFFF"
+      },
+      "size": 1950,
+      "user": {
+        "id": "1ae76300-5438-460d-9bf8-73a219ef65e0",
+        "first_name": "SM Rony",
+        "last_name": "",
+        "username": "smrony",
+        "avatar_url": "https://accounts-assets.lottiefiles.com/avatars/300_profile-photo-1674196636259.jpeg",
+        "email": "smrony.motion@gmail.com",
+        "is_hireable": true
+      }
+    },
+    {
+      "id": "25daade4-1167-11ee-8b6f-9bea0b354962",
+      "name": "Document OCR Scan",
+      "description": "Document OCR Scan project.",
+      "lottiePath": "https://assets-v2.lottiefiles.com/a/25daade4-1167-11ee-8b6f-9bea0b354962/O2KEFovqMw.lottie",
+      "userId": "be02bda9-b478-4263-a293-e91cee78e395",
+      "downloadCount": "487",
+      "slug": "document-ocr-scan",
+      "hash": "Tc6Rq3MSEX",
+      "meta": {
+        "id": "12345",
+        "width": 920,
+        "colors": [
+          [0.356862992048, 0.827450990677, 0.701960980892, 1],
+          [0.882353001015, 0.913725011489, 0.949020026712, 1],
+          [0.101961001754, 0.203922003508, 0.372548997402, 0.20000000298],
+          [1, 1, 1, 1],
+          [0.094117999077, 0.439215987921, 0.843137025833, 1],
+          [0.698038995266, 0.792156994343, 0.862744987011, 1],
+          [0.101961001754, 0.203922003508, 0.372548997402, 0.40000000596],
+          [0.094117999077, 0.439215987921, 0.843137025833, 0.079999998212],
+          [0.831372976303, 0.874509990215, 0.917647004128, 1]
+        ],
+        "frames": 237,
+        "height": 538,
+        "layers": 1,
+        "themes": [],
+        "inPoint": 0,
+        "version": "5.5.7",
+        "fileSize": 313773,
+        "outPoint": 237,
+        "frameRate": 60,
+        "generator": "LottieFiles AE 0.1.20"
+      },
+      "variants": [
+        {
+          "path": "a/25daade4-1167-11ee-8b6f-9bea0b354962/DrdrEyi2Ik.json",
+          "type": "json",
+          "fileSize": 313768,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/25daade4-1167-11ee-8b6f-9bea0b354962/TfGtb5qdrN.json",
+          "type": "json",
+          "fileSize": 221756,
+          "dimension": null,
+          "isOptimized": true,
+          "isTransparent": false
+        },
+        {
+          "path": "a/25daade4-1167-11ee-8b6f-9bea0b354962/o5KZug82fm.mp4",
+          "type": "mp4",
+          "fileSize": 63596,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/25daade4-1167-11ee-8b6f-9bea0b354962/QTkRgsrM21.gif",
+          "type": "gif",
+          "fileSize": 840959,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/25daade4-1167-11ee-8b6f-9bea0b354962/phC1J0sT2K.png",
+          "type": "png",
+          "fileSize": null,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/25daade4-1167-11ee-8b6f-9bea0b354962/lUYRAx3znc.zip",
+          "type": "zip",
+          "fileSize": 81067,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/25daade4-1167-11ee-8b6f-9bea0b354962/0E7Zx6BGtc.gif",
+          "type": "gif",
+          "fileSize": 333195,
+          "dimension": {
+            "name": "small",
+            "width": 150,
+            "height": 150
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/25daade4-1167-11ee-8b6f-9bea0b354962/IvIMKjUgjv.gif",
+          "type": "gif",
+          "fileSize": 1620806,
+          "dimension": {
+            "name": "medium",
+            "width": 500,
+            "height": 500
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/25daade4-1167-11ee-8b6f-9bea0b354962/SqchnKMzlU.gif",
+          "type": "gif",
+          "fileSize": 5612662,
+          "dimension": {
+            "name": "large",
+            "width": 1200,
+            "height": 1200
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/25daade4-1167-11ee-8b6f-9bea0b354962/O2KEFovqMw.lottie",
+          "type": "lottie",
+          "fileSize": 11942,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/25daade4-1167-11ee-8b6f-9bea0b354962/og-image-FFlneYo44Q.png",
+          "type": "og-image",
+          "fileSize": null,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        }
+      ],
+      "status": "published",
+      "config": {
+        "scale": 1,
+        "speed": 1,
+        "backgroundColor": "#FFFFFF"
+      },
+      "size": 11942,
+      "user": {
+        "id": "be02bda9-b478-4263-a293-e91cee78e395",
+        "first_name": "Denis Palchak",
+        "last_name": "",
+        "username": "sfo4xyao7n2vwng7",
+        "avatar_url": "https://accounts-assets.lottiefiles.com/avatars/300_default_user.jpg",
+        "email": "ways196@gmail.com",
+        "is_hireable": false
+      }
+    },
+    {
+      "id": "4fb0334a-1177-11ee-b8fa-1fd523a69dd9",
+      "name": "uploading",
+      "description": "no comment ...\r\nhttps://tookaa.ir",
+      "lottiePath": "https://assets-v2.lottiefiles.com/a/4fb0334a-1177-11ee-b8fa-1fd523a69dd9/G0ZD8UZwrb.lottie",
+      "userId": "79651f32-2b56-4674-86fd-f09f6c7a4fe3",
+      "downloadCount": "757",
+      "slug": "uploading",
+      "hash": "Ylgo5f3hai",
+      "meta": {
+        "id": "12345",
+        "width": 1080,
+        "colors": [
+          [0.136999990426, 0.219999994016, 0.388000009574, 1],
+          [1, 1, 1, 1],
+          [1, 0.724264705882, 0.352941146551, 1],
+          [1, 0.705999995213, 0.310000011968, 1],
+          [0.238999998803, 0.522000002394, 0.991999966491, 1],
+          [0.372548989689, 0.607843137255, 1, 1],
+          [0.226999993418, 0.681999954523, 0.834999952129, 1],
+          [0.372549019608, 0.607843137255, 1, 1],
+          [0.921568627451, 0.976470588235, 0.996078431373, 1],
+          [0.227450980392, 0.682352941176, 0.835294117647, 1],
+          [1, 0.725490196078, 0.352941176471, 1],
+          [0.603921568627, 0.909803921569, 1, 1]
+        ],
+        "frames": 300,
+        "height": 1080,
+        "layers": 45,
+        "themes": [],
+        "inPoint": 0,
+        "version": "5.5.9",
+        "fileSize": 197697,
+        "outPoint": 300,
+        "frameRate": 60,
+        "generator": "@lottiefiles/lottie-js 0.4.2"
+      },
+      "variants": [
+        {
+          "path": "a/4fb0334a-1177-11ee-b8fa-1fd523a69dd9/zuZCFrYPVc.json",
+          "type": "json",
+          "fileSize": 197072,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/4fb0334a-1177-11ee-b8fa-1fd523a69dd9/cJN3O40OxV.json",
+          "type": "json",
+          "fileSize": 157714,
+          "dimension": null,
+          "isOptimized": true,
+          "isTransparent": false
+        },
+        {
+          "path": "a/4fb0334a-1177-11ee-b8fa-1fd523a69dd9/Y0biDIlmvy.mp4",
+          "type": "mp4",
+          "fileSize": 261529,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/4fb0334a-1177-11ee-b8fa-1fd523a69dd9/7FFyYEKstf.gif",
+          "type": "gif",
+          "fileSize": 1861012,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/4fb0334a-1177-11ee-b8fa-1fd523a69dd9/VE8u3qZAIg.png",
+          "type": "png",
+          "fileSize": null,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/4fb0334a-1177-11ee-b8fa-1fd523a69dd9/4RRdlPDYZT.zip",
+          "type": "zip",
+          "fileSize": 24714,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/4fb0334a-1177-11ee-b8fa-1fd523a69dd9/zeldBybb7x.gif",
+          "type": "gif",
+          "fileSize": 699641,
+          "dimension": {
+            "name": "small",
+            "width": 150,
+            "height": 150
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/4fb0334a-1177-11ee-b8fa-1fd523a69dd9/s8U54Pcww9.gif",
+          "type": "gif",
+          "fileSize": 4062159,
+          "dimension": {
+            "name": "medium",
+            "width": 500,
+            "height": 500
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/4fb0334a-1177-11ee-b8fa-1fd523a69dd9/w1eC7YjqoN.gif",
+          "type": "gif",
+          "fileSize": 11146561,
+          "dimension": {
+            "name": "large",
+            "width": 1200,
+            "height": 1200
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/4fb0334a-1177-11ee-b8fa-1fd523a69dd9/G0ZD8UZwrb.lottie",
+          "type": "lottie",
+          "fileSize": 27116,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/4fb0334a-1177-11ee-b8fa-1fd523a69dd9/og-image-dCmtENTMkx.png",
+          "type": "og-image",
+          "fileSize": null,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        }
+      ],
+      "status": "published",
+      "config": {
+        "scale": 1,
+        "speed": 1,
+        "backgroundColor": "#FFFFFF"
+      },
+      "size": 27116,
+      "user": {
+        "id": "79651f32-2b56-4674-86fd-f09f6c7a4fe3",
+        "first_name": "castudio",
+        "last_name": "",
+        "username": "castudio",
+        "avatar_url": "https://accounts-assets.lottiefiles.com/avatars/300_profile-photo-1733003086320.jpeg",
+        "email": "mehdimihanzadeh@gmail.com",
+        "is_hireable": true
+      }
+    },
+    {
+      "id": "fd4b5a46-1183-11ee-a6fd-573c9fd520eb",
+      "name": "Form icon",
+      "description": "Animated form icon.",
+      "lottiePath": "https://assets-v2.lottiefiles.com/a/fd4b5a46-1183-11ee-a6fd-573c9fd520eb/b5TLZpsVD7.lottie",
+      "userId": "2207c668-a9f0-4b04-9e1a-89b0bdf50edc",
+      "downloadCount": "690",
+      "slug": "form-icon",
+      "hash": "WuSiETzUkN",
+      "meta": {
+        "id": "e1bf10da-463f-461c-9b36-8de7102eedd0",
+        "width": 951,
+        "colors": [
+          [0, 0, 0, 1],
+          [0.678431372549, 0.223529426724, 1, 1],
+          [0.278431372549, 0, 0.827451040231, 1]
+        ],
+        "frames": 90.0000036657751,
+        "height": 1080,
+        "layers": 4,
+        "themes": [],
+        "inPoint": 0,
+        "version": "4.8.0",
+        "fileSize": 10537,
+        "outPoint": 90.0000036657751,
+        "frameRate": 29.9700012207031,
+        "generator": "LottieFiles AE 3.1.1"
+      },
+      "variants": [
+        {
+          "path": "a/fd4b5a46-1183-11ee-a6fd-573c9fd520eb/b5TLZpsVD7.lottie",
+          "type": "lottie",
+          "fileSize": 1873,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/fd4b5a46-1183-11ee-a6fd-573c9fd520eb/mH1fji2B5c.json",
+          "type": "json",
+          "fileSize": 10560,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/fd4b5a46-1183-11ee-a6fd-573c9fd520eb/QdDZ1WeTVz.json",
+          "type": "json",
+          "fileSize": 7477,
+          "dimension": null,
+          "isOptimized": true,
+          "isTransparent": false
+        },
+        {
+          "path": "a/fd4b5a46-1183-11ee-a6fd-573c9fd520eb/9nf81ZPXYm.mp4",
+          "type": "mp4",
+          "fileSize": 20955,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/fd4b5a46-1183-11ee-a6fd-573c9fd520eb/U6PiNwrarE.gif",
+          "type": "gif",
+          "fileSize": 56315,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/fd4b5a46-1183-11ee-a6fd-573c9fd520eb/wjn2tTrtcM.png",
+          "type": "png",
+          "fileSize": null,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/fd4b5a46-1183-11ee-a6fd-573c9fd520eb/QvY4c7p1WL.zip",
+          "type": "zip",
+          "fileSize": 11484,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/fd4b5a46-1183-11ee-a6fd-573c9fd520eb/70xEzr3Jqb.gif",
+          "type": "gif",
+          "fileSize": 37640,
+          "dimension": {
+            "name": "small",
+            "width": 150,
+            "height": 150
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/fd4b5a46-1183-11ee-a6fd-573c9fd520eb/XWPaLFtjbj.gif",
+          "type": "gif",
+          "fileSize": 119617,
+          "dimension": {
+            "name": "medium",
+            "width": 500,
+            "height": 500
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/fd4b5a46-1183-11ee-a6fd-573c9fd520eb/KD6kJlorKL.gif",
+          "type": "gif",
+          "fileSize": 245504,
+          "dimension": {
+            "name": "large",
+            "width": 1200,
+            "height": 1200
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/fd4b5a46-1183-11ee-a6fd-573c9fd520eb/LR58YBY4mr.lottie",
+          "type": "lottie",
+          "fileSize": 1622,
+          "dimension": null,
+          "isOptimized": true,
+          "isTransparent": false
+        },
+        {
+          "path": "a/fd4b5a46-1183-11ee-a6fd-573c9fd520eb/3gSmJNQ4Yl.gif",
+          "type": "gif",
+          "fileSize": 1280413,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": true
+        },
+        {
+          "path": "a/fd4b5a46-1183-11ee-a6fd-573c9fd520eb/og-image-KUc9FRSYut.png",
+          "type": "og-image",
+          "fileSize": null,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        }
+      ],
+      "status": "published",
+      "config": {
+        "scale": 1,
+        "speed": 1,
+        "backgroundColor": "#FFFFFF"
+      },
+      "size": 1873,
+      "user": {
+        "id": "2207c668-a9f0-4b04-9e1a-89b0bdf50edc",
+        "first_name": "Krepling",
+        "last_name": "",
+        "username": "krepling",
+        "avatar_url": "https://accounts-assets.lottiefiles.com/avatars/300_profile-photo-1670381881065.jpeg",
+        "email": "travisgerada@gmail.com",
+        "is_hireable": false
+      }
+    },
+    {
+      "id": "c9d1bfe2-1152-11ee-b44c-676df3da623e",
+      "name": "Link Chain",
+      "description": "Link or unlink your files !",
+      "lottiePath": "https://assets-v2.lottiefiles.com/a/c9d1bfe2-1152-11ee-b44c-676df3da623e/pZ2nJWO5gn.lottie",
+      "userId": "942e7aa1-3a0e-44f3-8a11-0c2beb121208",
+      "downloadCount": "324",
+      "slug": "link-chain",
+      "hash": "aln9m89gYP",
+      "meta": {
+        "id": "12345",
+        "width": 400,
+        "colors": [
+          [0, 1, 0.611764705882, 1],
+          [0, 0, 0, 1]
+        ],
+        "frames": 90,
+        "height": 400,
+        "layers": 2,
+        "themes": [],
+        "inPoint": 0,
+        "version": "5.5.8",
+        "fileSize": 5695,
+        "outPoint": 90,
+        "frameRate": 25,
+        "generator": "@lottiefiles/lottie-js 0.4.2"
+      },
+      "variants": [
+        {
+          "path": "a/c9d1bfe2-1152-11ee-b44c-676df3da623e/oE0fAv8PQU.json",
+          "type": "json",
+          "fileSize": 5675,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/c9d1bfe2-1152-11ee-b44c-676df3da623e/HwwK706xSE.json",
+          "type": "json",
+          "fileSize": 4498,
+          "dimension": null,
+          "isOptimized": true,
+          "isTransparent": false
+        },
+        {
+          "path": "a/c9d1bfe2-1152-11ee-b44c-676df3da623e/LSZYeDQrRu.mp4",
+          "type": "mp4",
+          "fileSize": 25196,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/c9d1bfe2-1152-11ee-b44c-676df3da623e/jnDf6HjJ7D.gif",
+          "type": "gif",
+          "fileSize": 140701,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/c9d1bfe2-1152-11ee-b44c-676df3da623e/t0f9MMhuA8.png",
+          "type": "png",
+          "fileSize": null,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/c9d1bfe2-1152-11ee-b44c-676df3da623e/eXx4lrokTx.zip",
+          "type": "zip",
+          "fileSize": 1156,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/c9d1bfe2-1152-11ee-b44c-676df3da623e/pVxQXcvGFa.gif",
+          "type": "gif",
+          "fileSize": 89206,
+          "dimension": {
+            "name": "small",
+            "width": 150,
+            "height": 150
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/c9d1bfe2-1152-11ee-b44c-676df3da623e/IWxy56wOWh.gif",
+          "type": "gif",
+          "fileSize": 379610,
+          "dimension": {
+            "name": "medium",
+            "width": 500,
+            "height": 500
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/c9d1bfe2-1152-11ee-b44c-676df3da623e/uwN15lVCuU.gif",
+          "type": "gif",
+          "fileSize": 666908,
+          "dimension": {
+            "name": "large",
+            "width": 1200,
+            "height": 1200
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/c9d1bfe2-1152-11ee-b44c-676df3da623e/pZ2nJWO5gn.lottie",
+          "type": "lottie",
+          "fileSize": 1471,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/c9d1bfe2-1152-11ee-b44c-676df3da623e/E4MLJF1cPb.lottie",
+          "type": "lottie",
+          "fileSize": 1257,
+          "dimension": null,
+          "isOptimized": true,
+          "isTransparent": false
+        },
+        {
+          "path": "a/c9d1bfe2-1152-11ee-b44c-676df3da623e/QxaNlqQL0k.gif",
+          "type": "gif",
+          "fileSize": 287598,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": true
+        },
+        {
+          "path": "a/c9d1bfe2-1152-11ee-b44c-676df3da623e/og-image-zDwGxYQNgj.png",
+          "type": "og-image",
+          "fileSize": null,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        }
+      ],
+      "status": "published",
+      "config": {
+        "scale": 1,
+        "speed": 1,
+        "backgroundColor": "#ffffff"
+      },
+      "size": 1471,
+      "user": {
+        "id": "942e7aa1-3a0e-44f3-8a11-0c2beb121208",
+        "first_name": "Gaetan Gonzalez",
+        "last_name": "",
+        "username": "gaetangonzalez",
+        "avatar_url": "https://accounts-assets.lottiefiles.com/avatars/300_5d88bcfb50302.jpg",
+        "email": "gonzal.g.31@gmail.com",
+        "is_hireable": true
+      }
+    },
+    {
+      "id": "db341700-116e-11ee-af5a-2b2dcba4a090",
+      "name": "Recruitment",
+      "description": "HR, recruitment and headhunting animation",
+      "lottiePath": "https://assets-v2.lottiefiles.com/a/db341700-116e-11ee-af5a-2b2dcba4a090/FG48u3tRnb.lottie",
+      "userId": "323e5694-df7b-445e-80a8-4761284d7c07",
+      "downloadCount": "311",
+      "slug": "recruitment",
+      "hash": "iqdpe3MTD9",
+      "meta": {
+        "id": "12345",
+        "width": 450,
+        "colors": [
+          [0.04705882445, 0.039215687662, 0.039215687662, 1],
+          [0, 0, 0, 1],
+          [0.317647069693, 0.301960796118, 0.301960796118, 1],
+          [0.16719853878, 0.162906572223, 0.388235300779, 1],
+          [0.821744799614, 0.819469451904, 0.976470589638, 1],
+          [1, 0.971810877323, 0.815686285496, 1],
+          [0.752941191196, 0.733010411263, 0.620069205761, 1],
+          [0.905882358551, 0.882602334023, 0.749573230743, 1],
+          [0.29875844717, 0.289042651653, 0.701960802078, 1],
+          [0.734565794468, 0.72941172123, 1, 1],
+          [1, 0, 0, 1],
+          [0.843137264252, 0.733908712864, 0.128950402141, 1],
+          [0.1254902035, 0.4392157197, 0.678431391716, 1],
+          [0.933333396912, 0.788235366344, 0.627451002598, 1],
+          [1, 0.607843160629, 0.317647069693, 1],
+          [1, 0.886274576187, 0.760784387589, 1],
+          [0.788235366344, 0.666666686535, 0.521568655968, 1],
+          [0.929411828518, 0.784313797951, 0.623529434204, 1],
+          [0.20000000298, 0.188235297799, 0.188235297799, 1],
+          [0.592156887054, 0.519322276115, 0.392449080944, 1],
+          [0.949019610882, 0.949019610882, 0.949019610882, 1],
+          [0.792156934738, 0.670588254929, 0.525490224361, 1],
+          [0.402339369059, 0.611764729023, 0.275893867016, 1],
+          [0.512224793434, 0.314002305269, 0.65098041296, 1],
+          [0.733333349228, 0.92156869173, 0.976470649242, 1],
+          [0, 0.701960802078, 0.996078491211, 1],
+          [0.686274528503, 0.541688203812, 0.379469454288, 1],
+          [0.760784327984, 0.599090218544, 0.42066898942, 1],
+          [0.607843160629, 0.467632770538, 0.312264531851, 1],
+          [0.235294118524, 0.141176477075, 0.082352943718, 1],
+          [1, 0.639215707779, 0.031372550875, 1],
+          [1, 0.341176480055, 0.341176480055, 1],
+          [0.929411768913, 0.784313738346, 0.623529434204, 1],
+          [1, 0.886274516582, 0.760784327984, 1],
+          [0.78823530674, 0.666666686535, 0.521568655968, 1],
+          [1, 1, 1, 1],
+          [1, 0.694117665291, 0.46274510026, 1],
+          [1, 0.901960790157, 0.831372559071, 1],
+          [0.800000011921, 0.800000011921, 0.800000011921, 1],
+          [0, 0.701960802078, 0.996078431606, 1],
+          [0.349019616842, 0.43137255311, 0.458823531866, 1],
+          [0.901960790157, 0.901960790157, 0.901960790157, 1],
+          [0.184313729405, 0.227450981736, 0.243137255311, 1],
+          [0.96862745285, 0.627451002598, 0.368627458811, 1],
+          [0.850980401039, 0.549019634724, 0.321568638086, 1],
+          [0.57647061348, 0.72549021244, 0.768627464771, 1],
+          [0.874509811401, 0.89411765337, 0.901960790157, 1],
+          [0.858823537827, 0.858823537827, 0.858823537827, 1],
+          [0.733333349228, 0.921568632126, 0.976470589638, 1],
+          [0.588235318661, 0.588235318661, 0.588235318661, 1],
+          [0.780392169952, 0.780392169952, 0.780392169952, 1],
+          [0.78823530674, 0.78823530674, 0.78823530674, 1],
+          [0.929411768913, 0.929411768913, 0.929411768913, 1],
+          [0.843137264252, 0.843137264252, 0.843137264252, 1],
+          [0.341176480055, 0.341176480055, 0.341176480055, 1],
+          [0.741176486015, 0.741176486015, 0.741176486015, 1],
+          [0.690196096897, 0.690196096897, 0.690196096897, 1],
+          [0.929411828518, 0.929411828518, 0.929411828518, 1],
+          [0.917647063732, 0.917647063732, 0.917647063732, 1],
+          [0.92156869173, 0.92156869173, 0.92156869173, 1],
+          [0.788235366344, 0.788235366344, 0.788235366344, 1],
+          [0.811764717102, 0.811764717102, 0.811764717102, 1],
+          [0.921568632126, 0.921568632126, 0.921568632126, 1],
+          [0.1254902035, 0.439215689898, 0.678431391716, 1]
+        ],
+        "frames": 210,
+        "height": 450,
+        "layers": 26,
+        "themes": [],
+        "inPoint": 0,
+        "version": "5.6.3",
+        "fileSize": 462135,
+        "outPoint": 210,
+        "frameRate": 30,
+        "generator": "@lottiefiles/lottie-js 0.4.2"
+      },
+      "variants": [
+        {
+          "path": "a/db341700-116e-11ee-af5a-2b2dcba4a090/7Xn0gdCcWw.json",
+          "type": "json",
+          "fileSize": 462104,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/db341700-116e-11ee-af5a-2b2dcba4a090/lQZcC8XdVr.json",
+          "type": "json",
+          "fileSize": 361498,
+          "dimension": null,
+          "isOptimized": true,
+          "isTransparent": false
+        },
+        {
+          "path": "a/db341700-116e-11ee-af5a-2b2dcba4a090/JVJ1kZumzc.mp4",
+          "type": "mp4",
+          "fileSize": 324713,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/db341700-116e-11ee-af5a-2b2dcba4a090/nLZui9BGjq.gif",
+          "type": "gif",
+          "fileSize": 1756515,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/db341700-116e-11ee-af5a-2b2dcba4a090/iof9R5TLGy.png",
+          "type": "png",
+          "fileSize": null,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/db341700-116e-11ee-af5a-2b2dcba4a090/Oxbo8IdAIL.zip",
+          "type": "zip",
+          "fileSize": 46223,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/db341700-116e-11ee-af5a-2b2dcba4a090/VjlkWs7hFK.gif",
+          "type": "gif",
+          "fileSize": 572517,
+          "dimension": {
+            "name": "small",
+            "width": 150,
+            "height": 150
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/db341700-116e-11ee-af5a-2b2dcba4a090/PqbiCV0glF.gif",
+          "type": "gif",
+          "fileSize": 2799524,
+          "dimension": {
+            "name": "medium",
+            "width": 500,
+            "height": 500
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/db341700-116e-11ee-af5a-2b2dcba4a090/PsiKA1BMxb.gif",
+          "type": "gif",
+          "fileSize": 6112543,
+          "dimension": {
+            "name": "large",
+            "width": 1200,
+            "height": 1200
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/db341700-116e-11ee-af5a-2b2dcba4a090/FG48u3tRnb.lottie",
+          "type": "lottie",
+          "fileSize": 50713,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/db341700-116e-11ee-af5a-2b2dcba4a090/og-image-6iMYYNnFVd.png",
+          "type": "og-image",
+          "fileSize": null,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        }
+      ],
+      "status": "published",
+      "config": {
+        "scale": 1,
+        "speed": 1,
+        "backgroundColor": "#ffffff"
+      },
+      "size": 50713,
+      "user": {
+        "id": "323e5694-df7b-445e-80a8-4761284d7c07",
+        "first_name": "Maksim ",
+        "last_name": "Turkov",
+        "username": "maksim_turkov",
+        "avatar_url": "https://accounts-assets.lottiefiles.com/avatars/300_profile-photo-1709078335414.jpeg",
+        "email": "maxim.turkvv@gmail.com",
+        "is_hireable": false
+      }
+    },
+    {
+      "id": "45951364-116b-11ee-ab01-dfd8d2e39251",
+      "name": "Man with task list",
+      "description": "A boy standing with a pencil in his hand beside a task list.",
+      "lottiePath": "https://assets-v2.lottiefiles.com/a/45951364-116b-11ee-ab01-dfd8d2e39251/SrjOP4kSId.lottie",
+      "userId": "51efb0a9-67d7-42d2-adbc-4f6459a6ae6b",
+      "downloadCount": "1012",
+      "slug": "man-with-task-list",
+      "hash": "Z2XrIU43bQ",
+      "meta": {
+        "id": "12345",
+        "width": 512,
+        "colors": [
+          [0.063000002094, 0.125, 0.282000014361, 1],
+          [0.435000011968, 0.204000001795, 0.156999999402, 1],
+          [0.885999971278, 0.545000023935, 0.426999978458, 1],
+          [0.987999949736, 0.532999973671, 0.475, 1],
+          [1, 1, 1, 1],
+          [0.122000002394, 0.234999997008, 0.532999973671, 1],
+          [0.976000019148, 0.702000038297, 0.517999985639, 1],
+          [0.933000033509, 0.435000011968, 0.340999977261, 1],
+          [0.984000052658, 0.764999988032, 0.263000009574, 1],
+          [0.438999998803, 0.54900004069, 0.834999952129, 1],
+          [0.894000004787, 0.894000004787, 0.894000004787, 1],
+          [0.827000038297, 0.875, 1, 1],
+          [0.964999988032, 0.961000031116, 0.961000031116, 1],
+          [0.663000009574, 0.728999956916, 0.902000038297, 1]
+        ],
+        "frames": 241,
+        "height": 512,
+        "layers": 58,
+        "themes": [],
+        "inPoint": 0,
+        "version": "5.5.7",
+        "fileSize": 97148,
+        "outPoint": 241,
+        "frameRate": 60,
+        "generator": "LottieFiles AE 0.1.20"
+      },
+      "variants": [
+        {
+          "path": "a/45951364-116b-11ee-ab01-dfd8d2e39251/U4kZVgTxi8.json",
+          "type": "json",
+          "fileSize": 97329,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/45951364-116b-11ee-ab01-dfd8d2e39251/paIDkIB9Bd.json",
+          "type": "json",
+          "fileSize": 76911,
+          "dimension": null,
+          "isOptimized": true,
+          "isTransparent": false
+        },
+        {
+          "path": "a/45951364-116b-11ee-ab01-dfd8d2e39251/4vOBUBRHiP.mp4",
+          "type": "mp4",
+          "fileSize": 62430,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/45951364-116b-11ee-ab01-dfd8d2e39251/RPLTTuHfao.gif",
+          "type": "gif",
+          "fileSize": 670921,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/45951364-116b-11ee-ab01-dfd8d2e39251/jqWgRjc6zf.png",
+          "type": "png",
+          "fileSize": null,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/45951364-116b-11ee-ab01-dfd8d2e39251/mNo8BGDxPY.zip",
+          "type": "zip",
+          "fileSize": 9668,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/45951364-116b-11ee-ab01-dfd8d2e39251/xrmnPXRIAW.gif",
+          "type": "gif",
+          "fileSize": 164156,
+          "dimension": {
+            "name": "small",
+            "width": 150,
+            "height": 150
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/45951364-116b-11ee-ab01-dfd8d2e39251/O1GFx7zzrU.gif",
+          "type": "gif",
+          "fileSize": 1202953,
+          "dimension": {
+            "name": "medium",
+            "width": 500,
+            "height": 500
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/45951364-116b-11ee-ab01-dfd8d2e39251/2rf94YcoiL.gif",
+          "type": "gif",
+          "fileSize": 2395795,
+          "dimension": {
+            "name": "large",
+            "width": 1200,
+            "height": 1200
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/45951364-116b-11ee-ab01-dfd8d2e39251/SrjOP4kSId.lottie",
+          "type": "lottie",
+          "fileSize": 10844,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/45951364-116b-11ee-ab01-dfd8d2e39251/qRio73HIp2.lottie",
+          "type": "lottie",
+          "fileSize": 9842,
+          "dimension": null,
+          "isOptimized": true,
+          "isTransparent": false
+        },
+        {
+          "path": "a/45951364-116b-11ee-ab01-dfd8d2e39251/5chDRLeOqn.gif",
+          "type": "gif",
+          "fileSize": 9575322,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": true
+        },
+        {
+          "path": "a/45951364-116b-11ee-ab01-dfd8d2e39251/og-image-qtdrpZzOWG.png",
+          "type": "og-image",
+          "fileSize": null,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        }
+      ],
+      "status": "published",
+      "config": {
+        "scale": 1,
+        "speed": 1,
+        "backgroundColor": "#FFFFFF"
+      },
+      "size": 10844,
+      "user": {
+        "id": "51efb0a9-67d7-42d2-adbc-4f6459a6ae6b",
+        "first_name": "Boltbite",
+        "last_name": "",
+        "username": "boltbite",
+        "avatar_url": "https://accounts-assets.lottiefiles.com/avatars/300_815905-1605197625.jpg",
+        "email": "boltbite1@gmail.com",
+        "is_hireable": true
+      }
+    },
+    {
+      "id": "991a71ea-117b-11ee-b8ad-27d1933359a5",
+      "name": "PDF file scanning find PDFs files",
+      "description": "PDF file scanning find PDF files",
+      "lottiePath": "https://assets-v2.lottiefiles.com/a/991a71ea-117b-11ee-b8ad-27d1933359a5/x9wt5a7T15.lottie",
+      "userId": "2ecccf51-64b2-4efe-9b63-1795a1fcd4d8",
+      "downloadCount": "735",
+      "slug": "pdf-file-scanning-find-pdfs-files",
+      "hash": "ooiriPmxX1",
+      "meta": {
+        "id": "12345",
+        "width": 256,
+        "colors": [
+          [0.560783954695, 0.591788018919, 1, 1],
+          [1, 0, 0, 1],
+          [0.717999985639, 0.717999985639, 0.717999985639, 1],
+          [1, 1, 1, 1],
+          [0.745000023935, 0.250999989229, 0.187999994615, 1],
+          [0.944999964097, 0.337000020345, 0.258999992819, 1],
+          [0.885999971278, 0.885999971278, 0.885999971278, 1]
+        ],
+        "frames": 36,
+        "height": 256,
+        "layers": 9,
+        "themes": [],
+        "inPoint": 0,
+        "version": "4.8.0",
+        "fileSize": 15504,
+        "outPoint": 36,
+        "frameRate": 8,
+        "generator": "LottieFiles AE 2.0.4"
+      },
+      "variants": [
+        {
+          "path": "a/991a71ea-117b-11ee-b8ad-27d1933359a5/VZXbVyvgSk.json",
+          "type": "json",
+          "fileSize": 15527,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/991a71ea-117b-11ee-b8ad-27d1933359a5/Zi0JkJOX2Y.json",
+          "type": "json",
+          "fileSize": 11764,
+          "dimension": null,
+          "isOptimized": true,
+          "isTransparent": false
+        },
+        {
+          "path": "a/991a71ea-117b-11ee-b8ad-27d1933359a5/NykZhPyU8Q.mp4",
+          "type": "mp4",
+          "fileSize": 49139,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/991a71ea-117b-11ee-b8ad-27d1933359a5/dq8OB8hgSb.gif",
+          "type": "gif",
+          "fileSize": 140479,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/991a71ea-117b-11ee-b8ad-27d1933359a5/V021MXYT2c.png",
+          "type": "png",
+          "fileSize": null,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/991a71ea-117b-11ee-b8ad-27d1933359a5/39swJlU6QT.zip",
+          "type": "zip",
+          "fileSize": 2349,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/991a71ea-117b-11ee-b8ad-27d1933359a5/4O6a8lHz9T.gif",
+          "type": "gif",
+          "fileSize": 83963,
+          "dimension": {
+            "name": "small",
+            "width": 150,
+            "height": 150
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/991a71ea-117b-11ee-b8ad-27d1933359a5/K8kF3EnPeV.gif",
+          "type": "gif",
+          "fileSize": 470766,
+          "dimension": {
+            "name": "medium",
+            "width": 500,
+            "height": 500
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/991a71ea-117b-11ee-b8ad-27d1933359a5/wDzUG08VKa.gif",
+          "type": "gif",
+          "fileSize": 1525204,
+          "dimension": {
+            "name": "large",
+            "width": 1200,
+            "height": 1200
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/991a71ea-117b-11ee-b8ad-27d1933359a5/x9wt5a7T15.lottie",
+          "type": "lottie",
+          "fileSize": 2758,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/991a71ea-117b-11ee-b8ad-27d1933359a5/og-image-DYwdRItd7Q.png",
+          "type": "og-image",
+          "fileSize": null,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        }
+      ],
+      "status": "published",
+      "config": {
+        "scale": 1,
+        "speed": 1,
+        "backgroundColor": ""
+      },
+      "size": 2758,
+      "user": {
+        "id": "2ecccf51-64b2-4efe-9b63-1795a1fcd4d8",
+        "first_name": "salman",
+        "last_name": "",
+        "username": "salmangraphic",
+        "avatar_url": "https://accounts-assets.lottiefiles.com/avatars/300_1507651-233423741.jpg",
+        "email": "salmanregi13@gmail.com",
+        "is_hireable": true
+      }
+    },
+    {
+      "id": "c5b50d10-1184-11ee-9a40-134a13cd1467",
+      "name": "job hr",
+      "description": "hr job",
+      "lottiePath": "https://assets-v2.lottiefiles.com/a/c5b50d10-1184-11ee-9a40-134a13cd1467/LRMBIvJELR.lottie",
+      "userId": "bfe92227-60eb-4150-82ce-f52279516660",
+      "downloadCount": "231",
+      "slug": "job-hr",
+      "hash": "aOUnGvrFfO",
+      "meta": {
+        "id": "03e00cc5-2b17-4937-9de6-b7a1b5fed732",
+        "width": 500,
+        "colors": [
+          [0.6, 0.6, 0.6],
+          [0.4902, 0.4902, 0.4902],
+          [0.5255, 0.4431, 0.7765],
+          [0.5608, 0.8039, 0.9373],
+          [1, 1, 1],
+          [0.8314, 0.949, 1],
+          [0.6549, 0.5137, 0.2667],
+          [0.9294, 0.5412, 0.1412],
+          [0.4745, 0.4745, 0.4745],
+          [0.2627, 0.2627, 0.2627],
+          [0.1725, 0.1725, 0.1725],
+          [0.9647, 0.9843, 1],
+          [0.5451, 0.5451, 0.5451],
+          [0.7451, 0.7451, 0.7451],
+          [0.8, 0.8, 0.8],
+          [0.5333, 0.5333, 0.5333],
+          [0.7137, 0.5294, 0.949],
+          [0.9176, 0.6784, 0.349],
+          [0.5961, 0.7529, 0.9373],
+          [0.902, 0.5843, 0.6824],
+          [0.7686, 0.7686, 0.7686],
+          [0.7255, 0.6314, 0.5922],
+          [0.9412, 0.7922, 0.8314],
+          [0.6745, 0.4353, 0.5569],
+          [0.9529, 0.9529, 0.9529],
+          [0.9725, 1, 1],
+          [0.7608, 0.9255, 1],
+          [0.4431, 0.7098, 0.8275],
+          [0.549, 0.4706, 0.4],
+          [0.4471, 0.4314, 0.5451],
+          [0.7843, 0.6118, 0.3608],
+          [0.0039, 0.5961, 0.6275],
+          [0.8706, 0.5922, 0.4275],
+          [0.749, 0.8471, 0.9373],
+          [0.2314, 0.3529, 0.4784],
+          [0.3843, 0.2745, 0.2196],
+          [0.2667, 0.4, 0.5569],
+          [0.2078, 0.3216, 0.4275],
+          [0.2235, 0.3451, 0.4667],
+          [0.1608, 0.2549, 0.3294],
+          [0.0118, 0.6039, 0.6353],
+          [0.0039, 0.5922, 0.6235],
+          [0.0078, 0.5608, 0.5882],
+          [0, 0.6941, 0.7333],
+          [0.6745, 0.8078, 0.8157]
+        ],
+        "frames": 240,
+        "height": 500,
+        "layers": 12,
+        "themes": [],
+        "inPoint": 60,
+        "version": "5.5.7",
+        "fileSize": 324370,
+        "outPoint": 300,
+        "frameRate": 60,
+        "generator": "LottieFiles AE 0.1.14"
+      },
+      "variants": [
+        {
+          "path": "a/c5b50d10-1184-11ee-9a40-134a13cd1467/LRMBIvJELR.lottie",
+          "type": "lottie",
+          "fileSize": 20684,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/c5b50d10-1184-11ee-9a40-134a13cd1467/an46ptFLus.json",
+          "type": "json",
+          "fileSize": 321611,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/c5b50d10-1184-11ee-9a40-134a13cd1467/0Sf7I0zcrO.json",
+          "type": "json",
+          "fileSize": 230874,
+          "dimension": null,
+          "isOptimized": true,
+          "isTransparent": false
+        },
+        {
+          "path": "a/c5b50d10-1184-11ee-9a40-134a13cd1467/UfCSR1HEAY.mp4",
+          "type": "mp4",
+          "fileSize": 151652,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/c5b50d10-1184-11ee-9a40-134a13cd1467/qbjcM1m7kn.gif",
+          "type": "gif",
+          "fileSize": 2834677,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/c5b50d10-1184-11ee-9a40-134a13cd1467/RuguYqpje4.png",
+          "type": "png",
+          "fileSize": null,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/c5b50d10-1184-11ee-9a40-134a13cd1467/gNsHNxeiTX.zip",
+          "type": "zip",
+          "fileSize": 20661,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/c5b50d10-1184-11ee-9a40-134a13cd1467/Ji64JpMYPu.gif",
+          "type": "gif",
+          "fileSize": 465102,
+          "dimension": {
+            "name": "small",
+            "width": 150,
+            "height": 150
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/c5b50d10-1184-11ee-9a40-134a13cd1467/DQTYADaMhZ.gif",
+          "type": "gif",
+          "fileSize": 3842417,
+          "dimension": {
+            "name": "medium",
+            "width": 500,
+            "height": 500
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/c5b50d10-1184-11ee-9a40-134a13cd1467/XghvdUp4lx.gif",
+          "type": "gif",
+          "fileSize": 9752441,
+          "dimension": {
+            "name": "large",
+            "width": 1200,
+            "height": 1200
+          },
+          "isOptimized": false,
+          "isTransparent": false
+        },
+        {
+          "path": "a/c5b50d10-1184-11ee-9a40-134a13cd1467/XSP6Bh7Nsj.lottie",
+          "type": "lottie",
+          "fileSize": 17389,
+          "dimension": null,
+          "isOptimized": true,
+          "isTransparent": false
+        },
+        {
+          "path": "a/c5b50d10-1184-11ee-9a40-134a13cd1467/F0hgAUmt2n.gif",
+          "type": "gif",
+          "fileSize": 9790631,
+          "dimension": {
+            "name": "default",
+            "width": 640,
+            "height": 640
+          },
+          "isOptimized": false,
+          "isTransparent": true
+        },
+        {
+          "path": "a/c5b50d10-1184-11ee-9a40-134a13cd1467/og-image-IauO2iBiQ1.png",
+          "type": "og-image",
+          "fileSize": null,
+          "dimension": null,
+          "isOptimized": false,
+          "isTransparent": false
+        }
+      ],
+      "status": "published",
+      "config": {
+        "scale": 1,
+        "speed": 1,
+        "backgroundColor": "#f3f6f8"
+      },
+      "size": 20684,
+      "user": {
+        "id": "bfe92227-60eb-4150-82ce-f52279516660",
+        "first_name": "Mazen",
+        "last_name": "MH",
+        "username": "rl9x4p8u8dxh1xez",
+        "avatar_url": "https://accounts-assets.lottiefiles.com/avatars/default_user.jpg",
+        "email": "imazen@my.com",
+        "is_hireable": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+<svg width="100%" height="100%" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#E4F3FF;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:#C0E2FC;stop-opacity:0.1" />
+    </linearGradient>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F9E2FE;stop-opacity:0.25" />
+      <stop offset="100%" style="stop-color:#B4F5E3;stop-opacity:0.15" />
+    </linearGradient>
+    <filter id="blur1">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" />
+    </filter>
+  </defs>
+  
+  <!-- Animated floating elements -->
+  <ellipse opacity="0.25" cx="300" cy="120" rx="320" ry="120" fill="url(#grad1)" filter="url(#blur1)">
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" 
+                      values="0,0; 20,10; 0,0" dur="8s" repeatCount="indefinite"/>
+  </ellipse>
+  
+  <ellipse opacity="0.18" cx="1240" cy="200" rx="260" ry="80" fill="#C0E2FC">
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" 
+                      values="0,0; -15,8; 0,0" dur="6s" repeatCount="indefinite"/>
+  </ellipse>
+  
+  <ellipse opacity="0.20" cx="700" cy="870" rx="400" ry="90" fill="#B8E1E1">
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" 
+                      values="0,0; 25,-5; 0,0" dur="10s" repeatCount="indefinite"/>
+  </ellipse>
+  
+  <ellipse opacity="0.22" cx="1300" cy="830" rx="200" ry="100" fill="url(#grad2)">
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" 
+                      values="0,0; -10,15; 0,0" dur="7s" repeatCount="indefinite"/>
+  </ellipse>
+  
+  <ellipse opacity="0.19" cx="160" cy="800" rx="160" ry="64" fill="#B4F5E3">
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" 
+                      values="0,0; 12,-8; 0,0" dur="9s" repeatCount="indefinite"/>
+  </ellipse>
+  
+  <!-- Additional floating bubbles -->
+  <circle opacity="0.15" cx="500" cy="400" r="40" fill="#E8F4FD">
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" 
+                      values="0,0; 8,12; 0,0" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle opacity="0.12" cx="900" cy="300" r="25" fill="#F0E8FF">
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" 
+                      values="0,0; -5,10; 0,0" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle opacity="0.16" cx="1100" cy="650" r="35" fill="#E8FFF8">
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" 
+                      values="0,0; 15,-7; 0,0" dur="6.5s" repeatCount="indefinite"/>
+  </circle>
+</svg>

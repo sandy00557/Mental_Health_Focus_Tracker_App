@@ -1,0 +1,122 @@
+/* glass-button.css */
+.glass-button {
+  position: relative;
+  background: transparent;
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  border-right: 2px solid rgba(255, 255, 255, 0.2);
+  border-bottom: 2px solid rgba(255, 255, 255, 0.2);
+  border-radius: 10px;
+  color: #fff;
+  overflow: hidden;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+
+.glass-button::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 50%;
+  background: rgba(255, 255, 255, 0.2);
+  pointer-events: none;
+}
+
+.glass-button::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(255, 255, 255, 0.4),
+    transparent
+  );
+  transition: 0.5s;
+  pointer-events: none;
+}
+
+.glass-button:hover::after {
+  left: 100%;
+}
+
+.glass-glow-bottom {
+  position: absolute;
+  bottom: 5px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 270px;
+  height: 3px;
+  background: #0ef;
+  border-radius: 2000px / 50px;
+  box-shadow: 0 0 10px #0ef, 0 0 20px #0ef, 0 0 40px #0ef, 0 0 80px #0ef,
+    0 0 160px #0ef;
+  pointer-events: none;
+}
+
+.glass-glow-bottom::before {
+  content: "";
+  position: absolute;
+  bottom: 4px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 240px;
+  height: 3px;
+  background: #0ef;
+  border-radius: 2000px / 50px;
+  box-shadow: 0 0 10px #0ef, 0 0 20px #0ef, 0 0 40px #0ef, 0 0 80px #0ef,
+    0 0 160px #0ef;
+  pointer-events: none;
+}
+
+.glass-glow-bottom::after {
+  content: "";
+  position: absolute;
+  bottom: 58px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 270px;
+  height: 3px;
+  background: #0ef;
+  border-radius: 2000px / 50px;
+  box-shadow: 0 0 10px #0ef, 0 0 20px #0ef, 0 0 40px #0ef, 0 0 80px #0ef,
+    0 0 160px #0ef;
+  pointer-events: none;
+}
+
+.glass-glow-sides {
+  position: absolute;
+  top: 50%;
+  left: 8px;
+  transform: translateY(-50%);
+  width: 3px;
+  height: 45px;
+  background: #0ef;
+  border-radius: 70px / 2000px;
+  box-shadow: 0 0 10px #0ef, 0 0 20px #0ef, 0 0 40px #0ef, 0 0 80px #0ef,
+    0 0 160px #0ef;
+  pointer-events: none;
+}
+
+.glass-glow-sides::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 259px;
+  transform: translateY(-50%);
+  width: 2.5px;
+  height: 45px;
+  background: #0ef;
+  border-radius: 70px / 2000px;
+  box-shadow: 0 0 10px #0ef, 0 0 20px #0ef, 0 0 40px #0ef, 0 0 80px #0ef,
+    0 0 160px #0ef;
+  pointer-events: none;
+}
+
+.glass-glow-sides::after {
+  display: none;
+}
