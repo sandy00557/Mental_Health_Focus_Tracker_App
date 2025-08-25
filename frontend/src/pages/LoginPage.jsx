@@ -525,7 +525,7 @@ const LoginPage = () => {
       {/* Glassmorphic Card */}
       <div className="relative z-10 w-full max-w-md p-10 rounded-3xl shadow-xl bg-white/40 backdrop-blur-2xl border border-white/70 animate-fadeIn">
         <h1 className="text-3xl font-bold text-center text-indigo-700 drop-shadow mb-8">
-          🌱 Welcome Back to your app
+          🌱 Welcome Back to your app. Happy to see you
         </h1>
 
         <form className="space-y-8" onSubmit={handleLogin} autoComplete="off">
